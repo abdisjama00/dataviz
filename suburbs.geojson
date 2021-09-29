@@ -1,0 +1,537 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1623130690",
+        "name": "Queenwood",
+        "name:mk": "Квинвуд",
+        "place": "suburb",
+        "wikidata": "Q5065591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2716992,
+          -37.7482364
+        ]
+      },
+      "id": "node/1623130690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1623131594",
+        "name": "Chedworth",
+        "place": "suburb",
+        "wikidata": "Q5070476",
+        "wikipedia": "en:Chedworth Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2856038,
+          -37.7528512
+        ]
+      },
+      "id": "node/1623131594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624927175",
+        "name": "Flagstaff",
+        "name:mk": "Флегстаф",
+        "place": "suburb",
+        "wikidata": "Q5457008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2517987,
+          -37.7352561
+        ]
+      },
+      "id": "node/1624927175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624927176",
+        "name": "Huntington",
+        "name:mk": "Хантингтон",
+        "place": "suburb",
+        "wikidata": "Q5066156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2817531,
+          -37.7428038
+        ]
+      },
+      "id": "node/1624927176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624927178",
+        "name": "Pukete",
+        "name:mk": "Пукете",
+        "place": "suburb",
+        "wikidata": "Q7259124",
+        "wikipedia": "en:Pukete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.242528,
+          -37.7417459
+        ]
+      },
+      "id": "node/1624927178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624927179",
+        "name": "Rototuna North",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2637544,
+          -37.7282049
+        ]
+      },
+      "id": "node/1624927179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624927180",
+        "name": "Saint Andrews",
+        "name:mk": "Сент Ендрус",
+        "place": "suburb",
+        "wikidata": "Q5234088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2547772,
+          -37.7495717
+        ]
+      },
+      "id": "node/1624927180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624950405",
+        "name": "Fairfield",
+        "name:mk": "Ферфилд",
+        "place": "suburb",
+        "wikidata": "Q5430225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2863662,
+          -37.7685839
+        ]
+      },
+      "id": "node/1624950405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624950406",
+        "name": "Fairview Downs",
+        "name:mk": "Фервју Даунс",
+        "place": "suburb",
+        "wikidata": "Q5065696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.3048646,
+          -37.7645229
+        ]
+      },
+      "id": "node/1624950406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624967292",
+        "name": "Forest Lake",
+        "name:mk": "Форест Лејк",
+        "place": "suburb",
+        "wikidata": "Q5065596"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2548771,
+          -37.7744678
+        ]
+      },
+      "id": "node/1624967292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624967293",
+        "name": "Maeroa",
+        "name:mk": "Маероа",
+        "place": "suburb",
+        "wikidata": "Q6729265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2608814,
+          -37.7814048
+        ]
+      },
+      "id": "node/1624967293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624967296",
+        "name": "Western Heights",
+        "name:mk": "Вестерн Хајтс",
+        "place": "suburb",
+        "wikidata": "Q10551839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2338109,
+          -37.7897503
+        ]
+      },
+      "id": "node/1624967296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624973996",
+        "name": "Claudelands",
+        "name:mk": "Клодлендс",
+        "place": "suburb",
+        "wikidata": "Q10546519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2946044,
+          -37.7762014
+        ]
+      },
+      "id": "node/1624973996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624974003",
+        "name": "Deanwell",
+        "name:mk": "Динвел",
+        "place": "suburb",
+        "wikidata": "Q5070473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.27509,
+          -37.8192271
+        ]
+      },
+      "id": "node/1624974003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624974010",
+        "name": "Fitzroy",
+        "name:mk": "Фицрој",
+        "place": "suburb",
+        "wikidata": "Q5065575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.3006245,
+          -37.8154928
+        ]
+      },
+      "id": "node/1624974010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624974031",
+        "name": "Melville",
+        "name:mk": "Мелвил",
+        "place": "suburb",
+        "wikidata": "Q5066334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.277996,
+          -37.8103816
+        ]
+      },
+      "id": "node/1624974031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624992333",
+        "name": "Glenview",
+        "name:mk": "Гленвју",
+        "place": "suburb",
+        "wikidata": "Q5065657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2875366,
+          -37.8234248
+        ]
+      },
+      "id": "node/1624992333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624992336",
+        "name": "Hamilton East",
+        "name:mk": "Хамилтон Исток",
+        "place": "suburb",
+        "wikidata": "Q5644915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2979636,
+          -37.7957861
+        ]
+      },
+      "id": "node/1624992336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624992337",
+        "name": "Hillcrest",
+        "name:mk": "Хилкрест",
+        "place": "suburb",
+        "wikidata": "Q5762747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.3130705,
+          -37.8012078
+        ]
+      },
+      "id": "node/1624992337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624992340",
+        "name": "Riverlea",
+        "name:mk": "Риверли",
+        "place": "suburb",
+        "wikidata": "Q7338253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.3243878,
+          -37.8065325
+        ]
+      },
+      "id": "node/1624992340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624992341",
+        "name": "Silverdale",
+        "name:mk": "Силвердејл",
+        "place": "suburb",
+        "wikidata": "Q7484744"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.3304609,
+          -37.7933758
+        ]
+      },
+      "id": "node/1624992341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1625008580",
+        "name": "Dinsdale",
+        "name:mk": "Динсдејл",
+        "place": "suburb",
+        "wikidata": "Q5119419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2427636,
+          -37.7967141
+        ]
+      },
+      "id": "node/1625008580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1712529653",
+        "name": "Temple View",
+        "name:mk": "Темпл Вју",
+        "place": "suburb",
+        "wikidata": "Q7698696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2224497,
+          -37.8180224
+        ]
+      },
+      "id": "node/1712529653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2045811901",
+        "name": "Nawton",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2368428,
+          -37.7795418
+        ]
+      },
+      "id": "node/2045811901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3369542772",
+        "name": "Chartwell",
+        "name:mk": "Чартвел",
+        "place": "suburb",
+        "wikidata": "Q10545674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2778932,
+          -37.7588097
+        ]
+      },
+      "id": "node/3369542772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4311073888",
+        "name": "Frankton",
+        "name:mk": "Френктон",
+        "place": "suburb",
+        "wikidata": "Q2026479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2571104,
+          -37.7909408
+        ]
+      },
+      "id": "node/4311073888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4312360805",
+        "name": "Bader",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2915713,
+          -37.8091531
+        ]
+      },
+      "id": "node/4312360805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4312371882",
+        "name": "Te Rapa",
+        "name:mk": "Те Рапа",
+        "place": "suburb",
+        "wikidata": "Q7690948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2251511,
+          -37.7284022
+        ]
+      },
+      "id": "node/4312371882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5059368125",
+        "name": "Whitiora",
+        "name:mk": "Фитиора",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2678314,
+          -37.7746188
+        ]
+      },
+      "id": "node/5059368125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7608599468",
+        "name": "Ruakura",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.3185662,
+          -37.7716738
+        ]
+      },
+      "id": "node/7608599468"
+    }
+  ]
+}
